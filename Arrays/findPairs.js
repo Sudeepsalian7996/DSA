@@ -13,4 +13,4 @@ for(let i=0;i<arr.length;i++){
    else map.set(arr[i],map.get(arr[i])+1)
 }
 
-console.log(ans)
+console.log(ans) //2

@@ -1,14 +1,14 @@
 //solution--1
-let s = "eepeusd"
-let t = "sudeeep"
+// let s = "eepeusd"
+// let t = "sudeeep"
 
-function anagramCheck(s,t){
-  const arr1=s.split("").sort().join("")
-  const arr2=t.split("").sort().join("")
+// function anagramCheck(s,t){
+//   const arr1=s.split("").sort().join("")
+//   const arr2=t.split("").sort().join("")
 
-  return arr1===arr2
-}
-console.log(anagramCheck(s,t))
+//   return arr1===arr2
+// }
+// console.log(anagramCheck(s,t))
 
 //solution --2
 

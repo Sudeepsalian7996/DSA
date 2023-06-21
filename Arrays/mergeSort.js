@@ -1,6 +1,5 @@
 let arr=[1,4,3,5,2,2,5,8,1,6,3,0,5,3,88,2]
 
-
 function merge(arr,low,mid,high){
   let temp=[]
   let left=low

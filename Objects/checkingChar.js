@@ -12,4 +12,4 @@ var canConstruct = function(ransomNote, magazine) {
    }
    return true
 };
-console.log(canConstruct("ab","abc"))  //true
+console.log(canConstruct("acb","abc"))  //true

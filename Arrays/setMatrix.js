@@ -1,3 +1,5 @@
+let matrix=[[1,2,3,4],[7,8,9,0]]
+
 let cols=[]
     let rows=[]
     for(let i=0;i<matrix.length;i++){

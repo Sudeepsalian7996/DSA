@@ -14,7 +14,7 @@ function checkPrime(ele){
 while(i<=n){
   let flag=checkPrime(i)
   if(flag){
-    console.log(i)
+    // console.log(i)
     let originaLNumber=i
     let rev=0;
     while(originaLNumber>0){

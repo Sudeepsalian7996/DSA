@@ -1,3 +1,5 @@
+let n=5
+let arr=[1,2,3,4,5]
 let indx=-1
 for(let i=n-1;i>=0;i--){
     if(arr[i]>arr[i-1]){
@@ -21,4 +23,4 @@ function swap(arr,a,b){
 }
  let arr2=arr.splice(indx+1,n-1).reverse()
  let res=[...arr,...arr2]
- return res
+ console.log(res) 
